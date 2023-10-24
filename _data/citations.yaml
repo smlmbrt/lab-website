@@ -1,82 +1,446 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/2022.04.17.488593
+  title: An atlas of genetic scores to predict multi-omic traits
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Yu Xu
+  - Scott C. Ritchie
+  - Yujian Liang
+  - Paul R. H. J. Timmers
+  - Maik Pietzner
+  - "Lo\xEFc Lannelongue"
+  - Samuel A. Lambert
+  - Usman A. Tahir
+  - Sebastian May-Wilson
+  - "\xC5sa Johansson"
+  - Praveen Surendran
+  - Artika P Nath
+  - Elodie Persyn
+  - James E. Peters
+  - Clare Oliver-Williams
+  - Shuliang Deng
+  - Bram Prins
+  - Carles Foguet
+  - "Jian\u2019an Luan"
+  - Lorenzo Bomba
+  - Nicole Soranzo
+  - Emanuele Di Angelantonio
+  - Nicola Pirastu
+  - E Shyong Tai
+  - Rob M van Dam
+  - Emma E Davenport
+  - Dirk S. Paul
+  - Christopher Yau
+  - Robert E. Gerszten
+  - "Anders M\xE4larstig"
+  - John Danesh
+  - Xueling Sim
+  - Claudia Langenberg
+  - James F. Wilson
+  - Adam S. Butterworth
+  - Michael Inouye
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2022-04-17'
+  link: https://doi.org/gpxcz3
+  orcid: 0000-0001-8222-008X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1007/s12687-023-00635-1
+  title: 'What makes a good life: using theatrical performance to enhance communication
+    about polygenic risk scores research in patient and public involvement'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Amy M. Mason
+  - Ifunanya Obi
+  - Olamide Ayodele
+  - Samuel A. Lambert
+  - Sarah Fahle
+  publisher: Journal of Community Genetics
+  date: '2023-02-10'
+  link: https://doi.org/gsw8qc
+  orcid: 0000-0001-8222-008X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1038/s41597-023-01949-y
+  title: Quality control and removal of technical variation of NMR metabolic biomarker
+    data in ~120,000 UK Biobank participants
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Scott C. Ritchie
+  - Praveen Surendran
+  - Savita Karthikeyan
+  - Samuel A. Lambert
+  - Thomas Bolton
+  - Lisa Pennells
+  - John Danesh
+  - Emanuele Di Angelantonio
+  - Adam S. Butterworth
+  - Michael Inouye
+  publisher: Scientific Data
+  date: '2023-01-31'
+  link: https://doi.org/gsw8qd
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkac1010
+  title: 'The NHGRI-EBI GWAS Catalog: knowledgebase and deposition resource'
+  authors:
+  - Elliot Sollis
+  - Abayomi Mosaku
+  - Ala Abid
+  - Annalisa Buniello
+  - Maria Cerezo
+  - Laurent Gil
+  - Tudor Groza
+  - "Osman G\xFCne\u015F"
+  - Peggy Hall
+  - James Hayhurst
+  - Arwa Ibrahim
+  - Yue Ji
+  - Sajo John
+  - Elizabeth Lewis
+  - "Jacqueline\_A L MacArthur"
+  - Aoife McMahon
+  - David Osumi-Sutherland
+  - Kalliope Panoutsopoulou
+  - "Zo\xEB Pendlington"
+  - Santhi Ramachandran
+  - Ray Stefancsik
+  - Jonathan Stewart
+  - Patricia Whetzel
+  - Robert Wilson
+  - Lucia Hindorff
+  - Fiona Cunningham
+  - "Samuel\_A Lambert"
+  - Michael Inouye
+  - Helen Parkinson
+  - "Laura\_W Harris"
+  publisher: Nucleic Acids Research
+  date: '2022-11-09'
+  link: https://doi.org/gq73r5
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.07.15.500230
+  title: A community driven GWAS summary statistics standard
+  authors:
+  - James Hayhurst
+  - Annalisa Buniello
+  - Laura Harris
+  - Abayomi Mosaku
+  - Christopher Chang
+  - Christopher R. Gignoux
+  - Konstantinos Hatzikotoulas
+  - Mohd Anisul Karim
+  - Samuel A. Lambert
+  - Matt Lyon
+  - Aoife McMahon
+  - Yukinori Okada
+  - Nicola Pirastu
+  - N. William Rayner
+  - Jeremy Schwartzentruber
+  - Robert Vaughan
+  - Shefali Verma
+  - Steven P. Wilder
+  - Fiona Cunningham
+  - Lucia Hindorff
+  - Ken Wiley
+  - Helen Parkinson
+  - "In\xEAs Barroso"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-07-18'
+  link: https://doi.org/gsw8qg
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2019.12.14.876474
+  title: Integrative analysis of the plasma proteome and polygenic risk of cardiometabolic
+    diseases
+  authors:
+  - Scott C. Ritchie
+  - Samuel A. Lambert
+  - Matthew Arnold
+  - Shu Mei Teo
+  - Sol Lim
+  - Petar Scepanovic
+  - Jonathan Marten
+  - Sohail Zahid
+  - Mark Chaffin
+  - Yingying Liu
+  - Gad Abraham
+  - Willem H. Ouwehand
+  - David J. Roberts
+  - Nicholas A. Watkins
+  - Brian G. Drew
+  - Anna C. Calkin
+  - Emanuele Di Angelantonio
+  - Nicole Soranzo
+  - Stephen Burgess
+  - Michael Chapman
+  - Sekar Kathiresan
+  - Amit V. Khera
+  - John Danesh
+  - Adam S. Butterworth
+  - Michael Inouye
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-12-19'
+  link: https://doi.org/gkw8xq
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.06.22.21259323
+  title: Transferability of genetic loci and polygenic scores for cardiometabolic
+    traits in British Pakistanis and Bangladeshis
+  authors:
+  - Qin Qin Huang
+  - Neneh Sallah
+  - Diana Dunca
+  - Bhavi Trivedi
+  - Karen A. Hunt
+  - Sam Hodgson
+  - Samuel A. Lambert
+  - Elena Arciero
+  - John Wright
+  - Chris Griffiths
+  - Richard C. Trembath
+  - Harry Hemingway
+  - Michael Inouye
+  - Sarah Finer
+  - David A. van Heel
+  - Thomas Lumbers
+  - Hilary C. Martin
+  - Karoline Kuchenbaecker
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-06-24'
+  link: https://doi.org/gsw8qj
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.23.20077099
+  title: Improving reporting standards for polygenic scores in risk prediction studies
+  authors:
+  - Hannah Wand
+  - Samuel A. Lambert
+  - Cecelia Tamburro
+  - Michael A. Iacocca
+  - "Jack W. O\u2019Sullivan"
+  - Catherine Sillari
+  - Iftikhar J. Kullo
+  - Robb Rowley
+  - Jacqueline S. Dron
+  - Deanna Brockman
+  - Eric Venner
+  - Mark I. McCarthy
+  - Antonis C. Antoniou
+  - Douglas F. Easton
+  - Robert A. Hegele
+  - Amit V. Khera
+  - Nilanjan Chatterjee
+  - Charles Kooperberg
+  - Karen Edwards
+  - Katherine Vlessis
+  - Kim Kinnear
+  - John N. Danesh
+  - Helen Parkinson
+  - Erin M. Ramos
+  - Megan C. Roberts
+  - Kelly E. Ormond
+  - Muin J. Khoury
+  - A. Cecile J.W. Janssens
+  - Katrina A.B. Goddard
+  - Peter Kraft
+  - Jaqueline A. L. MacArthur
+  - Michael Inouye
+  - Genevieve Wojcik
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-08'
+  link: https://doi.org/gsw8qk
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-021-00783-5
+  title: The Polygenic Score Catalog as an open database for reproducibility and systematic
+    evaluation
+  authors:
+  - Samuel A. Lambert
+  - Laurent Gil
+  - Simon Jupp
+  - Scott C. Ritchie
+  - Yu Xu
+  - Annalisa Buniello
+  - Aoife McMahon
+  - Gad Abraham
+  - Michael Chapman
+  - Helen Parkinson
+  - John Danesh
+  - Jacqueline A. L. MacArthur
+  - Michael Inouye
+  publisher: Nature Genetics
+  date: '2021-03-10'
+  link: https://doi.org/gjmnbv
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/hmg/ddz187
+  title: Towards clinical utility of polygenic risk scores
+  authors:
+  - Samuel A Lambert
+  - Gad Abraham
+  - Michael Inouye
+  publisher: Human Molecular Genetics
+  date: '2019-07-31'
+  link: https://doi.org/gjjzzh
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-019-0411-1
+  title: Similarity regression predicts evolution of transcription factor sequence
+    specificity
+  authors:
+  - Samuel A. Lambert
+  - Ally W. H. Yang
+  - Alexander Sasse
+  - Gwendolyn Cowley
+  - Mihai Albu
+  - Mark X. Caddick
+  - Quaid D. Morris
+  - Matthew T. Weirauch
+  - Timothy R. Hughes
+  publisher: Nature Genetics
+  date: '2019-05-27'
+  link: https://doi.org/gjkz9w
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2018.09.045
+  title: The Human Transcription Factors
+  authors:
+  - Samuel A. Lambert
+  - Arttu Jolma
+  - Laura F. Campitelli
+  - Pratyush K. Das
+  - Yimeng Yin
+  - Mihai Albu
+  - Xiaoting Chen
+  - Jussi Taipale
+  - Timothy R. Hughes
+  - Matthew T. Weirauch
+  publisher: Cell
+  date: '2018-10-01'
+  link: https://doi.org/gfbzhd
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/g3.117.300296
+  title: Comparison of ChIP-Seq Data and a Reference Motif Set for Human KRAB C2H2
+    Zinc Finger Proteins
+  authors:
+  - Marjan Barazandeh
+  - Samuel A Lambert
+  - Mihai Albu
+  - Timothy R Hughes
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2018-01-01'
+  link: https://doi.org/gsw8qs
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.aan2927
+  title: Transcription factors read epigenetics
+  authors:
+  - Timothy R. Hughes
+  - Samuel A. Lambert
+  publisher: Science
+  date: '2017-05-05'
+  link: https://doi.org/grrmtr
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btw489
+  title: Motif comparison based on similarity of binding affinity profiles
+  authors:
+  - Samuel A. Lambert
+  - Mihai Albu
+  - Timothy R. Hughes
+  - Hamed S. Najafabadi
+  publisher: Bioinformatics
+  date: '2016-07-27'
+  link: https://doi.org/gbrfnj
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/elife.06967
+  title: Mapping and analysis of Caenorhabditis elegans transcription factor sequence
+    specificities
+  authors:
+  - Kamesh Narasimhan
+  - Samuel A Lambert
+  - Ally WH Yang
+  - Jeremy Riddell
+  - Sanie Mnaimneh
+  - Hong Zheng
+  - Mihai Albu
+  - Hamed S Najafabadi
+  - John S Reece-Hoyes
+  - Juan I Fuxman Bass
+  - Albertha JM Walhout
+  - Matthew T Weirauch
+  - Timothy R Hughes
+  publisher: eLife
+  date: '2015-04-23'
+  link: https://doi.org/gg4gpk
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2014.08.009
+  title: Determination and Inference of Eukaryotic Transcription Factor Sequence Specificity
+  authors:
+  - "Matthew\_T. Weirauch"
+  - Ally Yang
+  - Mihai Albu
+  - Atina G. Cote
+  - Alejandro Montenegro-Montero
+  - Philipp Drewe
+  - "Hamed\_S. Najafabadi"
+  - "Samuel\_A. Lambert"
+  - Ishminder Mann
+  - Kate Cook
+  - Hong Zheng
+  - Alejandra Goity
+  - "Harm van\_Bakel"
+  - Jean-Claude Lozano
+  - Mary Galli
+  - Mathew G. Lewsey
+  - Eryong Huang
+  - Tuhin Mukherjee
+  - Xiaoting Chen
+  - "John\_S. Reece-Hoyes"
+  - Sridhar Govindarajan
+  - Gad Shaulsky
+  - "Albertha\_J.M. Walhout"
+  - "Fran\xE7ois-Yves Bouget"
+  - Gunnar Ratsch
+  - "Luis\_F. Larrondo"
+  - "Joseph\_R. Ecker"
+  - "Timothy\_R. Hughes"
+  publisher: Cell
+  date: '2014-09-01'
+  link: https://doi.org/f6k95n
+  orcid: 0000-0001-8222-008X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1159/000345913
+  title: Individual Saturated and Monounsaturated Fatty Acids Trigger Distinct Transcriptional
+    Networks in Differentiated 3T3-L1 Preadipocytes
+  authors:
+  - Brittany Shaw
+  - Samuel Lambert
+  - Monica H.T. Wong
+  - Jessica C. Ralston
+  - Carolina Stryjecki
+  - David M. Mutch
+  publisher: Lifestyle Genomics
+  date: '2013-01-01'
+  link: https://doi.org/f5dkpn
+  orcid: 0000-0001-8222-008X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -92,9 +456,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -111,21 +472,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
