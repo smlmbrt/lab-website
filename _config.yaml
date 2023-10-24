@@ -1,18 +1,17 @@
 # site properties and page defaults
-title: smlmbrt
+title: Lambert group
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: We study the genetics of multimorbidity and develop open-source resources and tools for genetics research.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@smlmbrt.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: sl925@medschl.cam.ac.uk
+  orcid: 0000-0001-8222-008X
+  google-scholar: MatZDNgAAAAJ
   github: smlmbrt
-  twitter: smlmbrt
-  youtube: smlmbrt
+  twitter: iamslambert
 
 ### jekyll settings
 
